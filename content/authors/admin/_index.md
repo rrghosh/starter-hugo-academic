@@ -37,7 +37,7 @@ education:
       institution: IIT (ISM) Dhanbad
       year: 2015
     - course: B. Tech in Electronics and Communication Engineering
-      institution: WBUT
+      institution: WBUT Kolkata
       year: 20012
 email: ""
 superuser: true
