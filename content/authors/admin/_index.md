@@ -23,7 +23,7 @@ social:
     link: https://github.com/gcushen
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/rajib-ratan-ghosh-245139131/
 organizations:
   - name: Indian Institute of Technology Delhi
     url: https://home.iitd.ac.in/
