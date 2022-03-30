@@ -11,7 +11,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: eez158093@ee.iitd.ac.in
+    link: rrghosh.biet@gmail.com
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/RajibRatanGhosh
