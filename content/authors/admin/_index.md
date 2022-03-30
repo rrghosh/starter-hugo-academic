@@ -11,7 +11,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: rrghosh.biet@gmail.com
+    link: https://web.iitd.ac.in/~adhawan/
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/RajibRatanGhosh
