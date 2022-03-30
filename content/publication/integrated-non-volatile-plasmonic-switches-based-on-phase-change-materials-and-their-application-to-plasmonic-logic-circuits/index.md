@@ -4,7 +4,9 @@ title: Integrated non-volatile plasmonic switches based on
 publication_types:
   - "2"
 authors:
-  - Rajib Ratan Ghosh & Anuj Dhawan
+  - Admin
+  - Anuj Dhawan
+doi: doi.org/10.1038/s41598-021-98418-6
 draft: false
 featured: false
 image:
