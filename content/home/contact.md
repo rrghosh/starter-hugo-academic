@@ -25,15 +25,15 @@ content:
       captcha: false
 
   # Contact details (edit or remove options as required)
-  email: test@example.org
-  phone: 888 888 88 88
+  email: rrghosh.biet@example.org
+  phone: (+91) 7549010609
   address:
-    street: 450 Serra Mall
-    city: Stanford
-    region: CA
-    postcode: '94305'
-    country: United States
-    country_code: US
+    street: Hauz Khas
+    city: New Delhi
+    region: Delhi
+    postcode: '110016'
+    country: India
+    country_code: IND
   coordinates:
     latitude: '37.4275'
     longitude: '-122.1697'
