@@ -27,7 +27,7 @@ abstract: Integrated photonic devices or circuits that can execute both optical
   designs, low operating power, and high-speed operations. We combine photonics,
   plasmonics and electronics on the same platform to design an effective
   architecture for logic operations.
-draft: false
+draft: true
 featured: false
 image:
   filename: featured
