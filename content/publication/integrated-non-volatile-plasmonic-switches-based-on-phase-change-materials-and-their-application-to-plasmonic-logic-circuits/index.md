@@ -3,7 +3,8 @@ title: Integrated non-volatile plasmonic switches based on
   phase-change-materials and their application to plasmonic logic circuits
 publication_types:
   - "2"
-authors: []
+authors:
+  - Rajib Ratan Ghosh & Anuj Dhawan
 draft: false
 featured: false
 image:
