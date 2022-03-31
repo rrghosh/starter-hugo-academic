@@ -27,10 +27,10 @@ content:
   filter_button:
   - name: All
     tag: '*'
-  - name: Deep Learning
-    tag: Deep Learning
-  - name: Other
-    tag: Demo
+  - name: PhD Thesis
+    tag: Nanophotonics and plasmonics
+  - name: M. Tech Project
+    tag: Integrated photonics
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
