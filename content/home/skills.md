@@ -17,8 +17,8 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
 - description: Lumerical Lumerical FDTD/Mode/Device/Interconnect
-  icon: compass-drafting
-  icon_pack: fas
+  icon: cd
+  icon_pack: custom
   name: CAD Tools
 - description: 100%
   icon: chart-line
