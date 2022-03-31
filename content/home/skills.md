@@ -17,9 +17,9 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
 - description: Lumerical FDTD
-  icon: r-project
+  icon: compass-drafting
   icon_pack: fab
-  name: R
+  name: CAD Tools
 - description: 100%
   icon: chart-line
   icon_pack: fas
