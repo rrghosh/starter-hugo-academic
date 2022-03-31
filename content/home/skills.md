@@ -10,24 +10,24 @@ headless: true
 weight: 80
 
 title: Skills
-subtitle: Xy
+subtitle: 
 
 # Showcase personal skills or business features.
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: Lumerical FDTD/Mode/Device/Interconnect
+- description: Lumerical FDTD/Mode/Device/Interconnect   
   icon: svg1
   icon_pack: custom
   name: CAD Tools
-- description: 100%
+- description: Near-field scanning optical microscopy (NSOM), Atomic force microscopy (AFM), Raman spectroscopy, and Spectroscopic ellipsometry
   icon: chart-line
   icon_pack: fas
-  name: Statistics
-- description: 10%
+  name: Characterization Tools
+- description: sputter deposition, Atomic layer deposition (ALD), Pulsed laser deposition (PLD), Thermal Evaporation, 
   icon: camera-retro
   icon_pack: fas
-  name: Photography
+  name: Deposition & Fabrication Techniques
 
 # Uncomment to use emoji icons.
 #- icon: ':smile:'
