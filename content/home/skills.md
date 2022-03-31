@@ -16,7 +16,8 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: Lumerical FDTD/n Mode/Device/Interconnect
+- description: Lumerical FDTD/Mode/Device/
+- Interconnect
   icon: svg1
   icon_pack: custom
   name: CAD Tools
