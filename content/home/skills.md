@@ -19,7 +19,7 @@ feature:
 - description: _**Lumerical Lumerical FDTD/Mode/Device/Interconnect**_
   icon: svg1
   icon_pack: custom
-  name: CAD Tools
+  name: CAD Tool
 - description: 100%
   icon: chart-line
   icon_pack: fas
