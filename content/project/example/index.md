@@ -2,14 +2,14 @@
 slides: example
 url_pdf: ""
 title: PhD Thesis
-summary: DESIGN AND ANALYSIS OF NANOPHOTONIC AND PLASMONIC DEVICES FOR PROGRAMMBLE INTEGRATED PHOTONICS AND SENSING.
+summary: An example of using the in-built project page.
 url_video: ""
 date: 2016-04-27T00:00:00Z
 external_link: ""
 url_slides: ""
 subtitle: ""
 tags:
-  - Deep Learning
+  - Nanophotonics
 links:
   - icon: twitter
     icon_pack: fab
