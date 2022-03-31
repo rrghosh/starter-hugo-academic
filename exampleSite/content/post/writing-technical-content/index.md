@@ -304,6 +304,6 @@ renders as
 
 {{< icon name="terminal" pack="fas" >}} Terminal  
 {{< icon name="python" pack="fab" >}} Python  
-{{< icon name="r-project" pack="fab" >}} S
+{{< icon name="r-project" pack="fab" >}} R
 
 ### Did you find this page helpful? Consider sharing it 🙌
