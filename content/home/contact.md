@@ -38,10 +38,10 @@ content:
     latitude: '28.5457'
     longitude: '77.1928'
   directions: Enter Block II (Academics building) and take the stairs to room no. 312 on Floor 2
-  #office_hours:
-   # - 'Monday 10:00 to 13:00'
-   # - 'Wednesday 09:00 to 10:00'
-  #appointment_url: 'https://calendly.com'
+  # office_hours:
+   #  - 'Monday 10:00 to 13:00'
+   #  - 'Wednesday 09:00 to 10:00'
+  # appointment_url: 'https://calendly.com'
   contact_links:
     - icon: twitter
       icon_pack: fab
