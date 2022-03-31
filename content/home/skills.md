@@ -27,7 +27,7 @@ feature:
 - description: Sputter deposition, Atomic layer deposition (ALD), Pulsed laser deposition (PLD), Thermal Evaporation, Thermal probe pattering (SwissLitho NanoFrazor), and Focused ion beam (FIB) technique.
   icon: camera-retro
   icon_pack: fas
-  name: Deposition & Fabrication Techniques
+  name: Deposition & Fabrication Tools
 
 # Uncomment to use emoji icons.
 #- icon: ':smile:'
