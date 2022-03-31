@@ -35,22 +35,22 @@ content:
     country: India
     country_code: IND
   coordinates:
-    latitude: '37.4275'
-    longitude: '-122.1697'
-  directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
-  office_hours:
-    - 'Monday 10:00 to 13:00'
-    - 'Wednesday 09:00 to 10:00'
-  appointment_url: 'https://calendly.com'
+    latitude: '28.5457'
+    longitude: '77.1928'
+  directions: Enter Block II (Academics building) and take the stairs to room no. 312 on Floor 2
+  #office_hours:
+   # - 'Monday 10:00 to 13:00'
+   # - 'Wednesday 09:00 to 10:00'
+  #appointment_url: 'https://calendly.com'
   contact_links:
     - icon: twitter
       icon_pack: fab
       name: DM Me
-      link: 'https://twitter.com/Twitter'
+      link: 'https://twitter.com/home?lang=en'
     - icon: video
       icon_pack: fas
       name: Zoom Me
-      link: 'https://zoom.com'
+      link: 'https://us05web.zoom.us/profile'
 
 design:
   columns: '2'
