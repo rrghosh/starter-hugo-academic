@@ -16,10 +16,10 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: Lumerical FDTD
+- description: Lumerical FDTD/Mode/Device/Interconnect
   icon: compass-drafting
   icon_pack: fas
-  name: R
+  name: CAD Tools
 - description: 100%
   icon: chart-line
   icon_pack: fas
