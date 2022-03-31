@@ -16,7 +16,7 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: Lumerical FDTD/Mode/Device/Interconnect   
+- description: Lumerical FDTD/Mode/Device/Interconnect   RSoft Photonic Device Tools, Comsol Multiphysics, KLayout, Mentor Graphics
   icon: svg1
   icon_pack: custom
   name: CAD Tools
@@ -24,7 +24,7 @@ feature:
   icon: chart-line
   icon_pack: fas
   name: Characterization Tools
-- description: sputter deposition, Atomic layer deposition (ALD), Pulsed laser deposition (PLD), Thermal Evaporation, 
+- description: sputter deposition, Atomic layer deposition (ALD), Pulsed laser deposition (PLD), Thermal Evaporation, Thermal probe pattering (SwissLitho NanoFrazor), and Focused ion beam (FIB) technique.
   icon: camera-retro
   icon_pack: fas
   name: Deposition & Fabrication Techniques
