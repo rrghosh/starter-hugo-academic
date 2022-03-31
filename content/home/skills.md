@@ -16,11 +16,14 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: 90%
+# - description: 90%
   icon: r-project
   icon_pack: fab
-  name: R
-- description: 100%
+  name: CAD Tools
+- description: - Lumerical FDTD solutions, Mode solver, Device solver, Interconnect, 
+- RSoft Photonic Device Tools,
+- Comsol Multiphysics, 
+- KLayout, Mentor Graphics
   icon: chart-line
   icon_pack: fas
   name: Statistics
