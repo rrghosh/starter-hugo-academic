@@ -25,8 +25,8 @@ feature:
   icon_pack: custom
   name: Characterization Tools
 - description: Sputter deposition, Atomic layer deposition (ALD), Pulsed laser deposition (PLD), Thermal Evaporation, Thermal probe pattering (SwissLitho NanoFrazor), and Focused ion beam (FIB) technique.
-  icon: camera-retro
-  icon_pack: fas
+  icon: svg3
+  icon_pack: custom
   name: Deposition & Fabrication Tools
 
 # Uncomment to use emoji icons.
