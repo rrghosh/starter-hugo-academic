@@ -7,7 +7,7 @@ widget: featurette
 headless: true
 
 # Order that this section appears on the page.
-weight: 30
+weight: 45
 
 title: Skills
 subtitle:
@@ -17,7 +17,7 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
 - description: _**Lumerical Lumerical FDTD/Mode/Device/Interconnect**_
-  icon: cd
+  icon: svg1
   icon_pack: custom
   name: CAD Tools
 - description: 100%
