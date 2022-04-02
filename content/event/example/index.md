@@ -31,7 +31,7 @@ projects:
 image:
   caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)"
   focal_point: Right
-  filename: untitled4.png
+  filename: ""
 url_code: ""
 ---
 
