@@ -2,8 +2,7 @@
 title: Rajib Ratan Ghosh
 role: PhD Research Scholar
 avatar_filename: avatar.jpg
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: ""
 interests:
   - Silicon photonics
   - Plasmonics
