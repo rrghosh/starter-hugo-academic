@@ -20,4 +20,6 @@ content:
   order: desc
 design:
   view: 2
+  background:
+    image: untitled4.png
 ---
