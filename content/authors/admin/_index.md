@@ -42,9 +42,9 @@ email: ""
 superuser: true
 highlight_name: true
 ---
-Hello, 
-My name is Rajib Ratan Ghosh, and I am a PhD Research Scholar at the Indian Institute of Technology Delhi (IITD) working with Prof. Anuj Dhawan in the Electrical Engineering Department. 
+Rajib Ratn Ghosh is currently a Ph.D. Research Scholar in the Electrical Engineering Department at Indian Institute of Technology Delhi, India. He is advised by Prof. Anuj Dhawan. His research interests span the areas of programmable integrated photonics photonics, photonic computation, plasmonics, optical sensor, and Surface Enhanced Raman Scattering (SERS). 
 
+My research interests include silicon photonics, Plasmonics, optical interconnects, and optical sensors. Many of the recent projects I’ve worked on have been related to reconfigurable nanophotonic and plasmonic devices, photonic and plasmonic interfaces, optical computing in integrated photonics, PCM-based nonvolatile photonics, SERS-based sensors, and nanostructures based on plasmonic physics. Adding to that, photon-based computation is something I’m always attracted to. During the last few years, I have been a co-author on more than 14 articles/presentations in well-known journals and conferences, such as “Nature Scientific Reports,” “JOSA B,” “OSA Continumm,” “Optics Communication,” and “SPIE.”. 
 
 My research interests include silicon photonics, Plasmonics, optical interconnects, and optical sensors. Many of the recent projects I've worked on have been related to reconfigurable nanophotonic and plasmonic devices, photonic and plasmonic interfaces, optical computing in integrated photonics, PCM-based nonvolatile photonics, SERS-based sensors, and nanostructures based on plasmonic physics. Adding to that, photon-based computation is something I'm always attracted to. During the last few years, I have been a co-author on more than 14 articles/presentations in well-known journals and conferences, such as "Nature Scientific Reports," "JOSA B," "OSA Continumm," "Optics Communication," and "SPIE.". 
 
