@@ -23,11 +23,7 @@ address:
   region: CA
   postcode: "94305"
   country: United States
-links:
-  - icon: twitter
-    icon_pack: fab
-    name: Follow
-    url: https://twitter.com/georgecushen
+links: []
 publishDate: 2017-01-01T00:00:00Z
 tags: []
 projects:
