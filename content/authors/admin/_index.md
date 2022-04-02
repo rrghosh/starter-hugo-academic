@@ -37,7 +37,7 @@ education:
       year: 2015
     - course: B. Tech in Electronics and Communication Engineering
       institution: WBUT Kolkata
-      year: 20012
+      year: 2012
 email: ""
 superuser: true
 highlight_name: true
