@@ -1,7 +1,7 @@
 ---
 title: Rajib Ratan Ghosh
 role: PhD Research Scholar
-avatar_filename: avatar.jpg
+avatar_filename: avatar.png
 bio: ""
 interests:
   - Silicon photonics
