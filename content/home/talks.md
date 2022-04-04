@@ -6,6 +6,6 @@ weight: 66
 title: Recent Work
 subtitle: null
 design:
-  columns: "2"
+  columns: "1"
 ---
 ![title](untitled4.png)
