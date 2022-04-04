@@ -1,18 +1,11 @@
 ---
-# An instance of the Blank widget with a Gallery page element.
-# Documentation: https://wowchemy.com/docs/getting-started/page-builder/
 widget: blank
-
-# This file represents a page section.
+widget_id: "-"
 headless: true
-
-# Order that this section appears on the page.
 weight: 66
-
 title: Recent Work
-subtitle:
-
+subtitle: null
 design:
-  columns: '2'
+  columns: "2"
 ---
-![title](Untitled4.png)
+![title](untitled4.png)
