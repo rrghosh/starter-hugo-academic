@@ -46,4 +46,4 @@ Rajib Ratan Ghosh is currently a Ph.D. Research Scholar in the Electrical Engine
 
 He was selected for the prestigious scheme “Visvesvaraya PhD Scheme for Electronics & IT” by the Ministry of Electronics & Information Technology (MeitY), Government of India. During his PhD at IIT Delhi, he worked towards the design of reconfigurable nanophotonic and plasmonic devices, photonic and plasmonic interfaces, optical computing in integrated photonics, PCM-based nonvolatile photonics, SERS-based sensors, and nanostructures based on plasmonic physics.  In the last few years, he has published more than 14 articles/patents/presentations in well-known journals and conferences, such as “Nature Scientific Reports,” “JOSA B,” “OSA Continumm,” “Optics Communication,” and “SPIE.”. 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "assets/media/4.pdf" "newtab" >}}resumé{{< /staticref >}}.
