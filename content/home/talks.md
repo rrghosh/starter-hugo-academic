@@ -3,11 +3,11 @@ widget: about
 widget_id: --
 headless: true
 weight: 20
-title: Biography
+title: Recent Works
 active: true
 author: admin
 design:
   background:
-    image: ""
+    image: "untitled4.png"
 ---
 
