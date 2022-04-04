@@ -25,7 +25,7 @@ content:
       captcha: false
 
   # Contact details (edit or remove options as required)
-  email: rrghosh.biet@example.org
+  email: rrghosh.biet@gmail.com
   phone: (+91) 7549010609
   address:
     street: Hauz Khas
