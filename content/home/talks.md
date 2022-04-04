@@ -13,7 +13,7 @@ title: Recent Work
 subtitle:
 
 design:
-  columns: '1'
+  columns: '2'
 ---
 
 ![title](Untitled4.png)
