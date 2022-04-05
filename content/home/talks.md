@@ -3,7 +3,7 @@ widget: blank
 widget_id: "-"
 headless: true
 weight: 66
-title: Recent Work
+title: Recent Works
 subtitle: null
 design:
   columns: "2"
