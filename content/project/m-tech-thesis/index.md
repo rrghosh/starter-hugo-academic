@@ -1,11 +1,7 @@
 ---
 title: M. Tech Thesis
 date: 2022-04-05T11:00:23.148Z
-summary: >-
-  Design and analysis of photonic crystal waveguide based broadband TE pass
-  Polarizer (M. Tech
-
-  Thesis
+summary: DESIGN AND ANALYSIS OF PHOTONIC CRYSTAL BASED BROADBAND TE PASS POLARIZER
 draft: false
 featured: false
 image:
