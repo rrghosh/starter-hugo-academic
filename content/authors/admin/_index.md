@@ -10,8 +10,8 @@ interests:
   - Optical Sensor
   - Active metasurface
 social:
-  - icon: envelope
-    icon_pack: fas
+  - icon: researchgate
+    icon_pack: fab
     link: https://www.researchgate.net/profile/Rajib-Ghosh-6
   - icon: twitter
     icon_pack: fab
