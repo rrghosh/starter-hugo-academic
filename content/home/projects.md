@@ -24,13 +24,13 @@ content:
   # To show all items, set `tag` to "*".
   # To filter by a specific tag, set `tag` to an existing tag name.
   # To remove the toolbar, delete the entire `filter_button` block.
-  filter_button:
-  - name: All
-    tag: '*'
-  - name: PhD Thesis
-    tag: DESIGN AND ANALYSIS OF NANOPHOTONIC AND PLASMONIC DEVICES FOR PROGRAMMABLE INTEGRATED PHOTONICS AND SENSING
-  - name: M. Tech Project
-    tag: DESIGN AND ANALYSIS OF PHOTONIC CRYSTAL BASED BROADBAND TRANSVERSE ELECTRIC (TE) PASS POLARIZER
+ # filter_button:
+  #- name: All
+   # tag: '*'
+  #- name: PhD Thesis
+   # tag: DESIGN AND ANALYSIS OF NANOPHOTONIC AND PLASMONIC DEVICES FOR PROGRAMMABLE INTEGRATED PHOTONICS AND SENSING
+ # - name: M. Tech Project
+  #  tag: DESIGN AND ANALYSIS OF PHOTONIC CRYSTAL BASED BROADBAND TRANSVERSE ELECTRIC (TE) PASS POLARIZER
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
