@@ -28,9 +28,9 @@ content:
   - name: All
     tag: '*'
   - name: PhD Thesis
-    tag: Nanophotonics and plasmonics
+    tag: DESIGN AND ANALYSIS OF NANOPHOTONIC AND PLASMONIC DEVICES FOR PROGRAMMABLE INTEGRATED PHOTONICS AND SENSING
   - name: M. Tech Project
-    tag: Integrated photonics
+    tag: DESIGN AND ANALYSIS OF PHOTONIC CRYSTAL BASED BROADBAND TRANSVERSE ELECTRIC (TE) PASS POLARIZER
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
