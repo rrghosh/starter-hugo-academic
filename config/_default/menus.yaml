@@ -13,7 +13,7 @@ main:
   - name: Skills
     url: '#skills'
     weight: 30
-  - name: talks
+  - name: Recent Works
     url: '#talks'
     weight: 40
   - name: Publications
