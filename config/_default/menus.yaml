@@ -13,8 +13,8 @@ main:
   - name: Projects
     url: '#projects'
     weight: 30
-  - name: Recent Works
-    url: '#Recent Works'
+  - name: talks
+    url: '#talks'
     weight: 40
   - name: Publications
     url: '#featured'
