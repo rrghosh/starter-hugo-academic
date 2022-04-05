@@ -8,7 +8,7 @@ interests:
   - Plasmonics
   - Optical interconnect
   - Optical Sensor
-  - Active metamaterial
+  - Active metasurface
 social:
   - icon: envelope
     icon_pack: fas
