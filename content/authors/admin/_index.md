@@ -43,7 +43,7 @@ email: ""
 superuser: true
 highlight_name: true
 ---
-Rajib Ratan Ghosh is currently a Ph.D. Research Scholar in the Electrical Engineering Department at Indian Institute of Technology Delhi, India. He is working under the supervision of Prof. Anuj Dhawan in the {{< staticref "https://web.iitd.ac.in/~adhawan/" "newtab" >}} Nano Photonic and Plasmonic Laboratory (NPPL) {{< /staticref >}}. His research interests span the areas of programmable integrated photonics, photonic computation, plasmonics, optical sensor, and Surface Enhanced Raman Scattering (SERS). 
+Rajib Ratan Ghosh is currently a Ph.D. Research Scholar in the Electrical Engineering Department at Indian Institute of Technology Delhi, India. He is working under the supervision of Prof. Anuj Dhawan in the {{< staticref "https://web.iitd.ac.in/~adhawan/" "newtab" >}} Nano Photonic and Plasmonic Laboratory (NPPL) {{< /staticref >}}. His research interests span the areas of programmable integrated photonics, photonic computation, plasmonics, optical sensors, and Surface Enhanced Raman Scattering (SERS). 
 
 He was selected for the prestigious scheme “Visvesvaraya PhD Scheme for Electronics & IT” by the Ministry of Electronics & Information Technology (MeitY), Government of India. During his PhD at IIT Delhi, he worked towards the design of nanophotonic and plasmonic devices for programmable integrated photonics and sensing.  In the last few years, he has published more than 14 articles/patents/presentations in well-known journals and conferences, such as “Nature Scientific Reports,” “JOSA B,” “OSA Continumm,” “Optics Communication,” and “SPIE.”. 
 
